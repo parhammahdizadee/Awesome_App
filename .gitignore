@@ -60,7 +60,6 @@ coverage.xml
 
 # Secrets (be careful not to commit sensitive files!)
 .env
-.env.*
 
 # Cache files
 *.cache
